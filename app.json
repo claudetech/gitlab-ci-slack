@@ -1,0 +1,6 @@
+{
+  "name": "Gitlab CI to Slack integration",
+  "description": "Tiny web server to get Travis-like Slack notifications with Gitlab CI.",
+  "repository": "https://github.com/claudetech/gitlab-ci-slack",
+  "keywords": ["gitlab", "gitlab ci", "slack"]
+}
